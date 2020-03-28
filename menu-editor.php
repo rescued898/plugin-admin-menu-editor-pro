@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Admin Menu Editor Pro | Shared By Themes24x7.com
+Plugin Name: Admin Menu Editor Pro | Được chỉnh sửa bởi Tuấn Sữa
 Plugin URI: http://adminmenueditor.com/
 Description: Lets you directly edit the WordPress admin menu. You can re-order, hide or rename existing menus, add custom menus and more. 
 Version: 2.2
-Author: Janis Elsts
-Author URI: http://w-shadow.com/
+Author: Custom by Tuấn Sữa
+Author URI: http://24hdev.com/
 Slug: admin-menu-editor-pro
 */
 
